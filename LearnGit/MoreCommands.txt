@@ -1,0 +1,12 @@
+make changes 
+git add <file name that has been changed>
+git commit -m "commit statment'
+git push origin master 
+
+In the same way to pull the changes made 
+just 
+git pill origin master
+
+
+to delete user account in git 
+control panal> user accounts>windows credentials> genric credentals>remove account
